@@ -1,0 +1,21 @@
+Qty Value        Device                         Package        Parts
+1   1K1-1210-5%  R_CHIP-1210(3225-METRIC)       RESC3224X71    R1
+1   240R-1210-5% R_CHIP-1210(3225-METRIC)       RESC3224X71    R4
+1   2K2-1210-5%  R_CHIP-1210(3225-METRIC)       RESC3224X71    R2
+2   330K-0603-5% R_CHIP-0603(1608-METRIC)       RESC1608X60    R5, R7
+1   470uF/10V    C-POL_ECAP-8.5MM		UUX1A471MNL6GS C1
+1   4K7-1206-5%  R_CHIP-1206(3216-METRIC)       RESC3216X70    R8
+1   68K-0603-5%  R_CHIP-0603(1608-METRIC)       RESC1608X60    R6
+1   68K-1210-5%  R_CHIP-1210(3225-METRIC)       RESC3224X71    R3
+1   BC847B       BC847B				SOT23-3        Q1
+1   BURMG57W-05  BURMG57W-05			BI-1206        D3
+1   D2F-L3       D2F-L3   	                D2F-L3         S2
+1   D2F-L3-A     D2F-L3-A			D2F-L3-A       S1
+1   ENTRADA      2828XX-3282837-3               TERMBLK_508-3N J1
+1   JUMPER       PINHD-1X2                      1X02           JP1
+1   MB6S         MB6SMB6S                       SOIC-4W        BD1
+1   MMSZ5235B    MMSZ5235B-E3-08		SOD-123-2      D4
+2   S9015        S9015				SOT23-3        Q2, Q3
+1   SAÍDA        2828XX-3282837-3               TERMBLK_508-3N J2
+2   SMBJ24CA     SMBJ24CA			DO-214AA       D1, D2
+1   TP16R	 TP16R				TP16R          TP1
