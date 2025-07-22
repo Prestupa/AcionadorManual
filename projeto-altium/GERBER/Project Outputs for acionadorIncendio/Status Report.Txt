@@ -1,0 +1,16 @@
+Source PCB Design painel Acionador de Incendio.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [acionadorIncendio.PrjPcb]
+   Generated File[painel Acionador de Incendio-Plated.TXT]
+   Generated File[painel Acionador de Incendio-NonPlated.TXT]
+   Generated File[painel Acionador de Incendio.DRL]
+   Generated File[painel Acionador de Incendio.LDP]
+   Generated File[painel Acionador de Incendio.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 08:10:57 On 22/07/2025

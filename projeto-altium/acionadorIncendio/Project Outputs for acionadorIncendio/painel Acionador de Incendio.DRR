@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: painel Acionador de Incendio.PcbDoc   22/07/2025  08:10:57
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : painel Acionador de Incendio-Plated.TXT
+ASCII Non-Plated RoundHoles File : painel Acionador de Incendio-NonPlated.TXT
+EIA File   : painel Acionador de Incendio.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.457mm (18mil)                                           Round             710       PTH        0.00mm (0.00inch)
+T2      1.1mm (43mil)                                             Round             20        PTH        0.00mm (0.00inch)
+T3      1.168mm (46mil)                                           Round             60        PTH        0.00mm (0.00inch)
+T4      1.4mm (55mil)                                             Round             60        PTH        0.00mm (0.00inch)
+T5      2mm (79mil)                                               Round             40        NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              890
+
+Total Processing Time (hh:mm:ss) : 00:00:00

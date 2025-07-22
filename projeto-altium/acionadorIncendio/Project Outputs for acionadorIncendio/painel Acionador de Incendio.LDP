@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\joao.bernardo\Documents\acionador-alarme-jefferson\projeto-altium\acionadorIncendio\painel Acionador de Incendio.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=painel acionador de incendio-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=painel acionador de incendio-nonplated.txt|DrillLayers=gtl,gbl

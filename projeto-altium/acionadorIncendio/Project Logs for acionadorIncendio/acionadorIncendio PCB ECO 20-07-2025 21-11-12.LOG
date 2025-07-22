@@ -1,0 +1,8 @@
+Added Component: Designator=JP1(HEADER1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code"; Value = "554 / 515"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Descrição"; Value = "BARRA PINOS 2 PINOS 180 P-2.5MM / CAPA MINI JUMPER MKBL 020B"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJP1_1 Pin=JP1-1
+Added Pin To Net: NetName=NetBD1_4 Pin=JP1-2
+Added Member To Class: ClassName=acionadorIncendio Member=Component JP1 JUMPER
+Added Room: Name=acionadorIncendio

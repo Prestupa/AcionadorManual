@@ -1,0 +1,7 @@
+Added Component: Designator=D3(BURMG57W)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetBD1_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetC1_1 Pin=D3-3
+Added Pin To Net: NetName=NetD3_4 Pin=D3-4
+Added Member To Class: ClassName=acionadorIncendio Member=Component D3 BURMG57W-05
